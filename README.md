@@ -1,45 +1,48 @@
 # Hello, I'm Zachary Rizzo 👋
-
-## Software Engineer | Innovative Problem Solver | Full-Stack Developer
-
-Welcome to my slice of GitHub!
+## Full Stack Software Engineer | AI & React Specialist | Innovation Driver
+Welcome to my GitHub space!
 
 ### 🙋‍♂️ About Me
+I'm a versatile full-stack software engineer with 6+ years of experience, specializing in creating innovative, scalable applications using cutting-edge technologies. My expertise spans frontend development, AI integration, and backend infrastructure, with a passion for solving complex problems through technology.
 
-As an agile, results-driven software engineer, I specialize in creating sophisticated, user-friendly applications with a focus on React, automation, and full-stack development. I thrive in high-paced environments and I'm passionate about leveraging technology to solve complex problems.
+### 🛠 Technical Expertise
+#### Languages & Frameworks
+- **Frontend**: React, React Native, Next.js, TypeScript, JavaScript, Redux
+- **Backend**: Node.js, Express, Python, FastAPI, Flask
+- **UI/UX**: Tailwind CSS, MUI, shadcn, Responsive Design
 
-### 🛠 Technical Skills
+#### Technologies & Tools
+- **Databases**: Firebase/Firestore, PostgreSQL, Supabase, MySQL
+- **AI & Machine Learning**: OpenAI, LangChain, Numpy, Pandas, PyTorch
+- **Cloud & DevOps**: AWS, GCP, Docker
+- **Mobile Deployment**: Google Play Store, Apple App Store, TestFlight
 
-- **Frontend**: React, React Native, UI/UX Design, Responsive Design, JavaScript, CSS, Tailwind CSS, TypeScript, Next.js, Redux, Expo
-- **Backend**: Node.js, SQL, NoSQL, Python, Express.js, RESTful API, C++
-- **Tools & Methodologies**: Version Control/Git, Agile, Figma, Expo, JWT Token, Blender, Unreal Engine 5, Photoshop
-- **Other**: EMR Experience
+### 🌟 Professional Highlights
+- 🚀 Developed an AI-powered SaaS product for Special Education teachers at SLP Toolkit
+- 🤖 Architected the "Kit Assistant" using OpenAI and LangChain for advanced AI task execution
+- 📱 Led cross-platform mobile app development with React Native and Expo
+- 🔍 Implemented advanced geospatial features using Mapbox APIs
+- 📈 Improved internal user satisfaction by 15% through cross-functional collaboration
 
-### 🌟 Highlights
+### 🚧 Cutting-Edge Projects
+- **Helix AI Tooling Dashboard**: A comprehensive ML workflow management platform
+- **AI Transformer Stock Trader**: Advanced stock forecasting using transformer architecture
+- **AI Robot**: Autonomous robotic system with natural language interaction and spatial mapping
 
-- **Software Engineering**: Proficient in both React Native and Redux, I'm adept at crafting seamless cross-platform experiences.
-- **Backend Mastery**: With Node.js and Express.js, I've developed scalable server solutions and integrated Firebase for enhanced API functionality.
-- **Performance Optimization**: I leverage advanced system scalability and data handling efficiency to boost performance and reduce overhead.
-- **Cross-Functional Collaboration**: I've honed the ability to work with diverse teams, refining software solutions and increasing user satisfaction by 15%.
+### 🔬 Current Research Interests
+- Reinforcement Learning (TRPO, PPO, GRPO)
+- Distributed Training
+- Unsupervised LLM Fine-Tuning
 
-### 🎮 Recent Work
-
-- **American Medical Associates**: Advanced React Native applications and backend infrastructures.
-- **Flow Team**: Delivered a Team Management and Geolocation Time-Tracking Application with a focus on React Native and efficient backend solutions.
-- **Freelancing Projects**: Developed client-focused applications and automated web solutions.
-
-### 💡 Interests
-
-- Procedural content generation
-- Advanced data handling and visualization techniques
-- Exploring the convergence of music, gaming, and software development
+### 💡 Unique Strengths
+- Expert in creating seamless, responsive cross-platform applications
+- Proven track record in AI agent development and integration
+- Strong background in data engineering and machine learning pipelines
 
 ### 🤝 Let's Connect
+- 📧 Email: [zachcilwa@gmail.com](mailto:zachcilwa@gmail.com)
+- 🌐 Portfolio: [zach-rizzo.vercel.app](https://zach-rizzo.vercel.app)
+- 💻 GitHub: [github.com/zachrizzo](https://github.com/zachrizzo)
+- 💼 LinkedIn: [Zachary Rizzo](https://www.linkedin.com/in/zach-rizzo-877341147/)
 
-- LinkedIn: [@zach-rizzo](https://www.linkedin.com/in/zach-rizzo-877341147/)
-- Portfolio: [zachary-rizzo.vercel.app](https://zachary-rizzo.vercel.app)
-- Email: [zachrizzo@gmail.com](mailto:zachrizzo@gmail.com)
-
-If you're curious about my work or interested in collaborating on innovative projects, don't hesitate to get in touch!
-
-
+Always eager to collaborate on innovative, challenging projects that push the boundaries of technology!
